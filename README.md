@@ -58,7 +58,7 @@ It is of great value to answer product questions based on heterogeneous informat
 * user review: User reviews written for the product.
 * community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
 
-The USB dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly.
+The USB dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly. Questions from the USB dataset are all about the "toys and games" product category.
 
 The USB folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test. CSV files are separated by "\t". 
 
