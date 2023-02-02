@@ -1,0 +1,247 @@
+data	text
+"component_type: { value:""Memory"" }; { value:""Display"" }"	The product has a memory and display.
+nutritional_info: { serving_quantity:1.0, serving_unit:ounces, protein:[ { unit:grams, value:2.0 } ], carbohydrate:[ { total:300.0, unit:grams } ], energy:[ { unit:calories, content:110.0 } ] }	The product has a serving quantity of 1 ounce, 2 grams of protein, 300 grams of carbohydrate and 110 calories of energy.
+"lifestyle: { value:""Off-Road Lift Suspension Truck Jeep Accessories"" }"	This product is for Off-Road Lift Suspension Truck Jeep Accessories.
+"ingredients: { value:""Each pack consists of two parts: 1) Cambrelle outer cover; 2) Inner Frio pouch made of poly-cotton with panels containing crystals, which are non-toxic and non-flammable (our safety data sheet is available if required)"" }"	The product contains a Cambrelle outer cover, poly cotton with panels contain crystals for inner frio pouch and a non toxic and non flammable safety feature.
+audio_sensitivity: { unit:decibels, value:121.0 }	The product has an audio sensitivity of 121 decibels.
+"item_shape: { value:""Circular"" }"	The product is circular in shape.
+"compatible_phone_models: { value:""iPhone 11 Pro"" }; { value:""iPhone 11 XR"" }; { value:""iPhone XS Max"" }; { value:""iPhone 8"" }; { value:""Samsung S10+"" }"	This works with these phones: iPhone 11 Pro, iPhone 11 XR, iPhone XS Max, iPhone 8, and Samsung S10+.
+thread: { count:[ { value:160 } ] }	The product has 160 thread count.
+"size: { value:""One Size Fits USA 2-10"" }"	The product is one size fits all in USA sizes ranging from 2 to 10.
+allergen_information: { value:peanut_free }; { value:gluten_free }	Allergen alert: this product is peanut free and gluten free.
+"compatible_with_vehicle_type: { value:""Passenger Car"" }; { value:""ATV"" }; { value:""Truck"" }; { value:""SUV"" }; { value:""UTV"" }; { value:""Bus"" }"	It is compatible with vehicle like Passenger Car,ATV,Truck,SUV,UTV,Bus.
+phone_talk_time: { unit:hours, value:9.5 }	The product has a phone talk time of 9.5 hours.
+upper_temperature_rating: { unit:degrees_fahrenheit, value:194.0 }	The product has an upper temperature rating of 194 degrees fahrenheit.
+"blade: { color:[ { value:""white"" } ] }"	The blade of this product is white.
+processor_count: { value:6 }	This has six processors.
+"case: { diameter:[ { unit:millimeters, value:19. } ], material:[ { value:""metal"" } ], thickness:[ { unit:millimeters, value:11. } ] }"	The product's case has a diameter of 19 millimetres and a thickness of 11 millimetres and is made of metal.
+flash_memory: { installed_size:[ { unit:GB, value:64.0 } ] }	It has a 64GB flash memory.
+"size_per_pearl: { value:""12-12.5 mm"" }"	Each pearl is 12 to 12.5 millimeters.
+"lining_description: { value:""Fabric"" }"	The product's lining is made of fabric.
+"compatible_mountings: { value:""Camcorder"" }; { value:""Camera"" }"	It is camcorder and camera compatible.
+computer_memory: { size:[ { unit:GB, value:64.0 } ] }	The memory size of this product is 64 GB.
+"sleeve: { type:[ { value:""Long Sleeve"" } ] }"	This has long sleeves.
+number_of_keys: { value:28 }	This has 28 keys.
+"moisture_needs: { value:""Moderate Watering"" }"	This needs a moderate amount of water.
+"size: { value:""13 Little Kid"" }"	These are size 13 little kids.
+"ring: { size:[ { value:""NA"" } ] }"	There is no available information on the ring size.
+"sole_material: { value:""Rubber"" }"	The product's sole is made of rubber.
+"toe_style: { value:""closed-toe"" }"	These have a closed toe.
+"musical_style: { value:""Acoustic"" }"	Its musical style is Acoustic.
+number_of_compartments: { value:2 }	The product has 2 compartments.
+"connector_type: { value:""Plug In"" }"	This plugs in the wall.
+audio_sensitivity: { unit:decibels, value:85.0 }	It puts out 85 decibels.
+number_of_light_sources: { value:300 }	The product has 300 light sources.
+"inner: { material:[ { value:""Thicken Faux Fur"" } ] }"	The inside is made of Thicken Faux Fur.
+"band: { material:[ { value:""Stainless Steel"" } ], color:[ { value:""Silver"" } ], width:[ { unit:millimeters, value:21. } ] }"	The product is made of stainless steel, has a silver color and is 21 millimeters wide.
+"item_weight: { value:""51"" }"	This weighs 51.
+bulb: { shape_size:[ { value:par38 } ] }	The product has a par38 shape bulb size.
+"viewfinder_type: { value:""Optical"" }"	Its viewfinder is optical.
+ram_memory: { installed_size:[ { unit:GB, value:1.0 } ] }	The RAM memory is 1 GB.
+"graphics_description: { value:""dedicated"" }"	This has dedicated graphics.
+capacity: { unit:liters, value:40.0 }	This holds 40 liters.
+"viewfinder_type: { value:""fixed LCD"" }"	The viewfinder is a fixed LCD.
+"folded_size: { value:""3.7'' x 1.5'' x 0.5''"" }"	This product when folded is 3.7 x 1.5 x 0.5 inches.
+platform: { value:nintendo64 }	This product is compatible with Nintendo64.
+max_focal_length: { unit:millimeters, value:100.0 }	The product has a maximum focal length of 100 millimetres.
+"brake_style: { value:""Linear Pull"" }"	It has a linear pull brake.
+photo_sensor: { resolution:[ { unit:pixels, value:0.0 } ] }	There is no resolution.
+"mounting_type: { value:""Wall Mount"" }; { value:""Ceiling Mount"" }"	This product is a wall mount and a ceiling mount.
+number_of_windows: { value:2 }	This has two windows.
+"age_range_description: { value:""Less than 36 months"" }"	This is for babies and kids who are under 36 months old.
+allergen_information: { value:almonds }; { value:apple }	This product contains allergens including almonds and apples.
+number_of_drawers: { value:1 }	This product has 1 drawer.
+"ram_memory: { maximum_size:[ { unit:GB, value:64.0 } ], technology:[ { value:""DDR4 2133MHz RAM"" } ] }"	The RAM memory size is 64 GB, and it is DDR4 2133MHz RAM.
+"occasion_type: { value:""Birthday"" }; { value:""Housewarming"" }; { value:""All Occasions"" }; { value:""Wedding"" }"	This is for a birthday, a housewarming present, a wedding, and all other occasions.
+weight_capacity: { maximum:[ { unit:kilograms, value:50.0 } ] }	The maximum weight this can hold is 50 kilgrams.
+max_focal_length: { unit:millimeters, value:50.0 }	The product has a maximum focal length of 50 millimetres.
+"guitar_bridge_system: { value:""EVH Floyd Rose 1000 Series"" }"	The guitar bridge system is EVH Floyd Rose 1000 Series.
+"load_capacity: { unit:pounds, value:""30.0"" }"	This product can hold 30 items.
+"folded_size: { value:""7.7* 5.5in"" }"	The product has a size of 7.7 x 5.5 inches when folded.
+number_of_doors: { value:0 }	This product has no doors.
+number_of_sets: { value:1 }	This gets delivered as one set.
+"reusability: { value:""Single Use"" }"	These can only be used once.
+"brightness: { unit:lumen, value:""850.0"" }"	The brightness is 850 lumens.
+min_focal_length: { value:72. }	It has a minimun focal length of 72.
+"opacity: { value:""Sheer"" }"	This is sheer.
+audio_sensitivity: { unit:decibels, value:100.0 }	The audio sensitivity of this product is 100.0 decibels.
+"shaft: { circumference:[ { unit:inches, value:""11.0"" } ] }"	The product has a shaft circumference of 11 inches.
+total_eaches: { value:6 }	There are six in a package.
+"scent: { value:""Multiple Scents"" }"	This comes with more than one scent.
+"included_security_features: { value:""lock"" }"	There is a lock included on the security features on this product.
+leg: { }	This has legs.
+phone_talk_time: { unit:minutes, value:780. }	The product has a phone talk time of 780 minutes.
+item_diameter: { unit:inches, decimal_value:3.35 }	This item measures 3.35 inches in diameter.
+"material: { value:""tpu"" }"	This is made of TPU.
+package_type: { value:jewel_case }	This product comes in a jewel case.
+"skill_level: { value:""all"" }"	This is for all skill levels.
+sheet_count: { value:231 }	The product has 231 sheets.
+"blade: { material:[ { value:""Stainless Steel"" } ] }"	The blade is made of stainless steel.
+"league_name: { value:""NFL"" }"	Its league name is NFL.
+number_of_batteries: { value:2 }	It has 2 number of batteries.
+minimum_weight_recommendation: { unit:ounces, normalized_value:{ unit:pounds, value:0.56 }, value:9.0 }	The product weighs 0.56 pounds or 9 ounces.
+bulb: { shape_size:[ { value:c9 }, { value:e17 } ] }	The bulbs are size c9 and e17.
+"setting_type: { value:""flat-top-setting"" }"	This has a flat top setting.
+sheet_count: { value:80 }	The product has 80 sheets.
+woofer: { diameter:[ { unit:inches, value:4.0 } ] }	"The woofer is 4"" across the widest part."
+"compatible_devices: { value:""apple ipad pro"" }"	This works with the Apple Ipad Pro.
+"age_range_description: { value:""Little Kid"" }"	This is for little kids.
+"included_components: { value:""Picks include police hats, flashlights, cars and badges"" }"	The picks have police hats, flashlights, cars, and badges.
+control_method: { value:remote }	You can control this device with a remote control.
+"mounting_type: { value:""front"" }"	The product mounts on the front.
+"rise: { style:[ { value:""Knee Length"" } ] }"	These are knee highs.
+"brand: { value:""adidas"" }"	Its brand is adidas
+"team_name: { value:""Arizona State Sun Devils"" }"	Its team name is Arizona State Sun Devils.
+"light_source: { type:[ { value:""Halogen"" } ] }"	This is a halogen light.
+"collar_style: { value:""Deep V-neck"" }"	The neckline is a deep V-neck.
+"hard_disk: { size:[ { unit:TB, value:10. } ], description:[ { value:""HDD"" } ], interface:[ { value:serial_ata600 } ] }"	The HDD hard disk has a size of 10 TB and the interface is serial ata600.
+"shaft: { height:[ { unit:inches, value:""10"" } ] }"	"The shaft is 10"" high."
+"compatible_phone_models: { value:""Sony-Xperia-XZ1-Compact"" }; { value:""Xperia-XZ1-Compact"" }; { value:""Sony Xperia XZ1 Compact"" }"	This fits the Sony-Xperia-XZ1-Compact phone and the Xperia-XZ1-Compact phone.
+"ring: { size:[ { value:""11"" } ] }"	This product is 11 inches.
+water_resistance_level: { value:not_water_resistant }	This isn't water resistant.
+max_focal_length: { unit:millimeters, value:18.0 }	The product has a maximum focal length of 18 millimetres.
+"item_weight: { value:""65"" }"	This weighs 65.
+"brand: { value:""BOS"" }"	The product's brand is BOS.
+item_diameter: { unit:millimeters, decimal_value:2.85 }	The diameter of this product measures 2.85 mm.
+item_weight: { unit:ounces, normalized_value:{ unit:pounds, value:0.56 }, value:9.0 }	This weighs 0.56 pounds, which is 9.0 ounces.
+"skill_level: { value:""Intermediate"" }"	This product is for those at an intermediate skill level.
+"clasp_type: { value:""Metal"" }"	It has a metal clasp.
+"software_included: { value:""Webcam"" }"	It has a Webcam included.
+"nutritional_info: { vitamins_and_minerals:[ { unit:milligrams, nutrient:sodium, value:30.0 } ], serving_quantity:45.0, serving_unit:grams, serving_description:[ { value:""1 Package"" } ], protein:[ { unit:grams, value:0.0 } ], fat:[ { total:0.0, unit:grams } ], carbohydrate:[ { total:41.0, unit:grams, sugars:31.0 } ] }; { vitamins_and_minerals:[ { unit:milligrams, nutrient:sodium, value:30. } ], serving_quantity:45., serving_unit:grams, serving_description:[ { value:""Serving Size 1 Package"" } ], protein:[ { unit:grams, value:0. } ], fat:[ { total:0., unit:grams } ], carbohydrate:[ { other:42., unit:grams, sugars:32. } ] }"	"nutritional_info: { vitamins_and_minerals:[ { unit:milligrams, nutrient:sodium, value:30.0 } ], serving_quantity:45.0, serving_unit:grams, serving_description:[ { value:""1 Package"" } ], protein:[ { unit:grams, value:0.0 } ], fat:[ { total:0.0, unit:grams } ], carbohydrate:[ { total:41.0, unit:grams, sugars:31.0 } ] }; { vitamins_and_minerals:[ { unit:milligrams, nutrient:sodium, value:30. } ], serving_quantity:45., serving_unit:grams, serving_description:[ { value:""Serving Size 1 Package"" } ], protein:[ { unit:grams, value:0. } ], fat:[ { total:0., unit:grams } ], carbohydrate:[ { other:42., unit:grams, sugars:32."
+"fit_type: { value:""On-Ear"" }"	These are on-ear headphones.
+"resolution: { value:""4K"" }"	This product has a 4K resolution.
+total_metal_weight: { unit:grams, value:1.4 }	The product weighs 1.4 grams in metal.
+hardware_interface: { value:'3_5_mm_audio' }	The product has a 3 to 5 mm audio interface.
+"string: { material:[ { value:""Brass"" } ] }"	The strings on this product are made of brass.
+phone_standby_time: { unit:hours, value:120.0 }	Phone standby time is 120 hours.
+"flavor: { value:""Elderberry"" }"	This is elderberry flavor.
+"shaft: { height:[ { value:""11"" } ] }"	This product is 11 inches high.
+"grip: { material:[ { value:""Leather"" } ] }"	Grip material is leather.
+upper_temperature_rating: { unit:degrees_fahrenheit, value:600.0 }	The product has an upper temperature rating of 600 degrees Fahrenheit.
+runtime: { unit:minutes, value:149. }	This is 149 minutes long.
+maximum_range: { unit:feet, value:65. }	The product has a maximum range of 65 feet.
+is_foldable: { value:false }	It is not foldable.
+"nutritional_info: { vitamins_and_minerals:[ { unit:milligrams, nutrient:sodium, value:20.0 } ], serving_quantity:40.0, serving_unit:grams, serving_description:[ { value:""35 Pieces"" } ], protein:[ { unit:grams, value:0.0 } ], fat:[ { total:0.0, unit:grams } ], carbohydrate:[ { total:37.0, unit:grams, sugars:28.0 } ] }"	The product has 20 milligrams of sodium, serving quantity of 40 grams, has 35 pieces, zero protein, zero fat, 37 grams of carbohydrates and 28 grams of sugars.
+"belt: { width:[ { unit:inches, string_value:""1.1 inches"", decimal_value:1.1 } ] }"	"It has a width of 1.1""."
+battery: { cell_composition:[ { value:lithium_ion } ], weight:[ { unit:grams, value:3.0 } ] }	The lithium battery weighs 3 grams.
+"head: { style:[ { value:""Flanged"" } ] }"	This product is a flanged screw.
+"back: { material:[ { value:""Mahogany Wood"" } ] }"	The back is made of Mahogany Wood.
+bulb: { shape_size:[ { value:a19 } ] }	The product has a bulb shape size of a19.
+computer_memory: { size:[ { unit:GB, value:4.0 } ] }	The computer memory is 4 GB.
+"focus_type: { value:""Manual Focus"" }"	It has a manual focus.
+"head: { style:[ { value:""Truss"" } ] }"	The product's head is in a Truss style.
+"software_included: { value:""Apple watch band rose gold"" }"	The product is a Apple watch band with rose gold color.
+data_transfer_rate: { unit:gigabits_per_second, value:1000.0 }	The data transfer rate is 1000 gigabits per second.
+phone_talk_time: { unit:hours, value:4.5 }	The product has a phone talk time of 4.5 hours.
+"ram_memory: { technology:[ { value:""ddr_sdram"" } ] }"	The RAM memory is ddr_sdram.
+"fastener: { type:[ { value:""Hex"" } ] }"	This is a hex type fastener.
+"size: { value:""16"" }"	This is size 16.
+"focus_type: { value:""automatic_only"" }"	It has automatic focus.
+"inner: { material:[ { value:""Mesh Padded Dog Vest"" } ] }"	The inside of the dog vest is padded mesh.
+total_diamond_weight: { unit:carats, value:0.96 }	The diamonds weigh .96 carats.
+"chain_type: { value:""20'' Double-breasted Chain"" }"	The product is a 20 Double-breasted chain type.
+"top_style: { value:""Tank"" }"	The product is a tank top.
+phone_talk_time: { unit:minutes, value:300. }	The product has a phone talk time of 300 minutes.
+"bridge: { width:[ { unit:millimeters, value:""19"" } ] }"	The product has a bridge width of 19 millimetres.
+"flavor: { value:""Strawberry Lemonade"" }"	This is strawberry lemonade flavor.
+"metal_type: { value:""rose-gold-plated-brass"" }"	The metal is rose gold plated brass.
+"room_type: { value:""Office"" }"	The product is suitable for offices.
+"size: { value:""10A"" }"	The size is 10A.
+floor_length: { unit:inches, value:71.0 }	The product has a floor length of 71 inches.
+"pearl: { minimum_color:[ { value:""cream"" } ], shape:[ { value:""button"" } ], uniformity:[ { value:""very-good"" } ], stringing_method:[ { value:""not-strung"" } ], type:[ { value:""simulated-pearl"" } ], surface_blemishes:[ { value:""clean"" } ], lustre:[ { value:""high-luster"" } ] }"	The product has a cream color pearl in the shape of a button with a very good uniformity and is an unstrung simulated pearl with clean surface and high luster.
+"audio_output_mode: { value:""Stereo"" }"	This has a stereo in it.
+"gem_type: { value:""na"" }"	This doesn't have a gem.
+"bridge: { width:[ { unit:millimeters, value:""20"" } ] }"	This product has a width of 20 millimeters.
+"collar_style: { value:""button down collar"" }"	It has a button down collar.
+"nutritional_info: { vitamins_and_minerals:[ { unit:milligrams, nutrient:cholesterol, value:0.0 } ], serving_quantity:56.0, serving_unit:grams, protein:[ { unit:grams, value:4.0 } ], fat:[ { total:11.0, unit:grams } ], carbohydrate:[ { total:49.0, unit:grams } ], energy:[ { unit:calories, content:210.0 } ] }; { serving_quantity:1.0, serving_unit:unknown_modifier, serving_description:[ { value:""1 packs (56 grams)"" } ], protein:[ { unit:grams, value:4. } ], fat:[ { total:11., unit:grams } ], carbohydrate:[ { total:39., unit:grams, sugars:27., sugars_string:""grams"" } ], energy:[ { unit:kilocalories, content:210. } ] }"	The product contains no cholesterol, serving quantity of 56 grams, 4 grams of protein, 49 grams of carbohydrates, 210 calories of energy, serving quantity of 1.
+current_rating: { unit:amps, value:3.0 }; { unit:amps, value:4.1 }	This product has 3 amps
+"handle: { type:[ { value:""Knob"" }, { value:""Lever"" } ] }"	It is a knob.
+number_of_keys: { value:82 }	The product has 82 keys.
+"occasion_type: { value:""ramadan"" }"	These are for Ramadan.
+"graphics_coprocessor: { value:""Integrated Graphics"" }"	The graphics coprocessor has integrated graphics.
+max_focal_length: { unit:millimeters, value:25.0 }	The product has a maximum focal length of 25 millimetres.
+"guitar_bridge_system: { value:""n/a"" }"	This doesn't have a guitar bridge system.
+"seat: { material_type:[ { value:""Fabric"" } ] }"	The seat is covered in fabric.
+"room_type: { value:""Office"" }; { value:""Kitchen"" }; { value:""Garage"" }; { value:""Bathroom"" }"	For use in the office, kitchen, garage or bathroom.
+has_self_timer: { value:true }	This product has a self timer.
+"compatible_mountings: { value:""DJI Mavic Pro/Platinum"" }"	Its compatible mounting is DJI Mavic Pro/Platinum.
+minimum_weight_recommendation: { unit:ounces, normalized_value:{ unit:pounds, value:0.16 }, value:2.5 }	The product recommends a minimum weight of 0.16 pounds or 2.5 ounces.
+"load_capacity: { unit:pounds, value:""150.0"" }"	This can hold 150 pounds at the most.
+"age_range_description: { value:""3+ months"" }"	This product is used for babies 3+ months.
+"sunlight_exposure: { value:""Partial Sun"" }"	The product should have a partial exposure to sunlight.
+"rise: { style:[ { value:""High Rise"" } ] }"	These are high rise.
+ram_memory: { installed_size:[ { unit:GB, value:3.0 } ] }	The RAM memory has an installed size of 3.0 GB.
+"mounting_type: { value:""Over The Door"" }"	This product mounts over the door.
+"operating_system: { value:""windows 2000"" }; { value:""windows xp"" }; { value:""windows 10"" }"	The product runs on windows 2000, windows 10 and windows xp.
+"watch_movement_type: { value:""Quartz"" }"	The product has a Quartz movement type of watch.
+"brand: { value:""INEX Kids"" }"	Its brand is INEX Kids.
+bulb: { shape_size:[ { value:g30 }, { value:g25 } ] }	The product has a g30 and g25 shape bulb.
+rim: { size:[ { unit:inches, value:13.0 } ], width:[ { unit:inches, value:4.5 } ] }	Rim size is 13 inches and wigth is 4.5 inches.
+"included_components: { value:""Kickstand"" }"	This comes with a kickstand.
+"band: { material:[ { value:""Stainless Steel"" } ], size:[ { value:""womens-standard"" } ], color:[ { value:""Silver"" } ], width:[ { unit:millimeters, value:18.0 } ] }"	The band is a womens-standard size with a width of 18.0 and made of Silver Stainless Steel.
+wireless_provider: { value:att }; { value:verizon }; { value:nextel }; { value:t_mobile }	Compatible with Verizon, Nextel and T Mobile.
+"setting_type: { value:""other-setting-type"" }"	This has a setting.
+"material: { value:""PC hard shell and PU leather"" }"	The product is made of PC hard shell and PU leather.
+"power_source_type: { value:""Battery-Powered"" }"	It is battery powered.
+current_rating: { unit:amps, value:10.0 }	The amp rating of this product is 10.0.
+control_method: { value:touch }; { value:application }	This product features a touch control method.
+"outer: { material:[ { value:""Polyester"" }, { value:""Spandex"" } ] }"	The product's outer part is made of polyester and spandex.
+"operating_system: { value:""BlackBerry OS"" }"	The product runs on BlackBerry OS.
+"folded_size: { value:""4.75 Inch"" }"	Folded size is 4.75“
+seat: { height:[ { unit:inches, value:3.0 } ] }	"The seat is 3"" high."
+number_of_sets: { value:500 }	There are 500 sets of this product.
+"hair_type: { value:""long"" }"	The product has a long hair.
+number_of_rounds: { value:0 }	This doesn't have any rounds.
+water_resistance_depth: { unit:feet, value:660. }	This device is water resistant up to 660 feet.
+"recommended_uses_for_product: { value:""Camping Hiking Mountaineering Climbing Multi-Sport"" }"	This is for different sports including camping, hiking, mountaineering, and climbing.
+"lens: { color:[ { value:""Clear"" } ], material:[ { value:""Plastic"" } ], width:[ { unit:inches, value:""1.97"" } ], height:[ { unit:inches, value:""1.18"" } ] }"	Lens color is clear material is plastic, width 1.97 inchesand height is 1.18 inches.
+water_resistance_depth: { unit:meters, value:50.0 }	This product is water resistant to up to 50 meters.
+"keyboard_description: { value:""QWERTY"" }"	The product has a QWERTY keyboard.
+"keyboard_description: { value:""qwerty keyboard"" }"	Its keyboard is qwerty keyboard.
+wireless_comm_standard: { value:'802_11_BGN' }; { value:bluetooth }	It has an 802_11_BGN standard and bluetooth.
+"recommended_uses_for_product: { value:""Chair"" }"	These are to be used on chairs.
+"lens: { type:[ { value:""Telephoto"" } ] }"	This product has a telephoto lens.
+"bowl: { material_type:[ { value:""Stainless Steel"" } ] }"	This is a stainless steel bowl.
+"form_factor: { value:""3.5 inch"" }"	This product is 3 1/2 inches long.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.25 }, value:0.11 }	The package weighs 0.25 pounds, which is 0.11 kilograms.
+wireless_comm_standard: { value:'802_11_A' }; { value:'802_11_B' }; { value:'54g' }	The wireless communication standard is 802_11_A, 802_11_B, 54g.
+digital_storage_capacity: { unit:GB, value:128.0 }	The storage capacity on this device is 128.0 GB.
+"supported_standards: { value:""MP3"" }; { value:""AAC"" }; { value:""APE"" }; { value:""FLAC"" }; { value:""WMA"" }; { value:""WAV"" }; { value:""OGG"" }"	The product supports MP3, AAC, APE, FLAC, WMA, WAV and OGG standards.
+"recommended_uses_for_product: { value:""Sofa"" }"	This is to use for a sofa.
+"zoom_type: { value:""digital"" }"	This has a digital zoom.
+"movement_detection_technology: { value:""Laser"" }"	This detects movement with a laser.
+"cover: { material:[ { value:""faux linen"" } ] }"	The cover is made of faux linen.
+digital_storage_capacity: { unit:GB, value:16.0 }	This can store 16 GB.
+"microphone_form_factor: { value:""In-Line"" }"	This has an in-line microphone.
+"lens: { material:[ { value:""Composite"" } ], width:[ { unit:millimeters, value:""62"" } ], type:[ { value:""Polarized"" } ], coating_description:[ { value:""UV Protection Coating"" } ] }"	The product's lens is made of composite material, is polarized, has a UV protection coating and has a width of 62 millimetres.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.35 }, value:0.16 }	The product weighs 0.35 pounds or 0.16 kilograms.
+"recommended_uses_for_product: { value:""Cycling"" }"	This is for riding a bike.
+"lens: { color:[ { value:""Black/Black/Whi/Black/Black/Wh"" } ] }"	The color is black and white.
+"lens: { type:[ { value:""Fisheye,Wide Angle and Macro Lenses"" } ] }"	The product has a Fisheye, Wide Angle and macro lenses.
+number_of_rounds: { value:1 }	The product has 1 round.
+wireless_comm_standard: { value:'2.4_ghz_radio_frequency' }; { value:'802_11_BGN' }; { value:bluetooth }	It is an 802_11_BGN wireless standard, a 2.4 ghz radio frequency and is bluetooth capable.
+"display: { size:[ { unit:inches, value:3.0 } ], type:[ { value:""LCD"" } ] }"	This product has a 3 inch LCD display.
+digital_storage_capacity: { unit:GB, value:4. }	This has 4 GB storage.
+"resolution_maximum: { value:""1920 x 1080"" }"	The maximum resolution 1920 by 1080.
+"recommended_uses_for_product: { value:""hiking, camping, campfire, survival, emergencies"" }"	This is meant for use while hiking, camping, in emergencies, and for survival.
+"keyboard_description: { value:""Multimedia"" }"	The product has a multimedia keyboard.
+water_resistance_depth: { unit:inches, value:0.0 }	"This is water resistant to a depth of 0""."
+"hair_type: { value:""straight"" }; { value:""Chemically Treated"" }; { value:""Damaged"" }; { value:""Color Treated"" }"	This is for chemically treated, color treated, damaged straight hair.
+"form_factor: { value:""Desktop"" }"	Its form is Desktop.
+"recommended_uses_for_product: { value:""Chair"" }; { value:""Table"" }"	This is to be used with chairs and tables.
+wireless_comm_standard: { value:'802_11_ABG' }; { value:'802_11_N' }; { value:bluetooth }	This product has an 802_11_ABG and Bluetooth standard.
+digital_storage_capacity: { unit:TB, value:8.0 }	This product has a storage capacity of 8.
+"tire: { aspect_ratio:[ { value:75.0 } ], tire_type:[ { value:""All Season / Summer / Performance"" } ] }"	The tire has an aspect ratio of 75 and is suited for an all season and summer performance.
+"caffeine_content: { value:""Caffeinated"" }"	This product has caffeine.
+display: { size:[ { unit:inches, value:10.2 } ] }	"The display is 10.2""."
+"lens: { color:[ { value:""Gray"" } ], material:[ { value:""Plastic"" } ], width:[ { unit:millimeters, value:""57"" } ], coating_description:[ { value:""UV Protection Coating"" } ] }"	The product's lens is gray in color, is made of plastic, has a width of 57 millimetres and has a UV protection coating.
+"microphone_form_factor: { value:""Noise Cancelling Microphone, Echo Cancelling Microphone"" }"	This microphone is noise cancelling and echo cancelling.
+"form_factor: { value:""Chewables"" }"	These are chewable.
+total_ethernet_ports: { value:8 }	This has eight ethernet ports.
+"supported_standards: { value:""MP3"" }; { value:""WMA"" }"	The product supports MP3 and WMA standards.
+display: { size:[ { unit:inches, value:5.5 } ] }	Its display size is 5.5 inches.
+water_resistance_depth: { unit:meters, value:200.0 }	Water resistant to 200 meters.
+"movement_detection_technology: { value:""Optical"" }"	Its movement detection technology is optical.
+"item_firmness_description: { value:""plush"" }"	This is plush.
+"keyboard_description: { value:""Gaming"" }"	The product has a gaming keyboard.
+number_of_rounds: { value:8 }	This has eight rounds.

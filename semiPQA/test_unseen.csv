@@ -1,0 +1,197 @@
+data	text
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.85 }, value:0.39 }	The weight of the package is 0.85 pounds, which is 0.39 kilograms.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.04 }, value:0.02 }	The weight of the package is 0.04 pounds, which is 0.02 kilograms.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:4.28 }, value:1.94 }	The package weighs 4.28 pounds, which is 1.94 kilograms.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.6 }, value:0.27 }	The weight of the package is 0.6 pounds, which is 0.27 kilograms.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:1.85 }, value:1.85 }	Item package weight is 1.85 pounds.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:1.9 }, value:0.86 }	The product weighs 1.9 pounds or 0.86 kilograms.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:35.35 }, value:35.35 }	This weighs 35.35 pounds.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:2.0 }, value:0.91 }	The weight of the package is 2.0 pounds, which is 0.91 kilograms.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.15 }, value:0.07 }	The product weighs 0.15 pounds or 0.07 ounces.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.73 }, value:0.33 }	The package weight is 0.73 pounds, which is 0.33 kilograms.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:0.7 }, value:0.7 }	The weight of this item is 0.7 pounds.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.1 }, value:0.05 }	The weight of the package is 0.1 pounds, which is 0.05 kilograms.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:0.05 }, value:0.05 }	The product weighs 0.05 pounds.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:17.65 }, value:17.65 }	The package weighs 17.65 pounds.
+item_package_weight: { unit:pounds, normalized_value:{ unit:pounds, value:0.5 }, value:0.5 }	The package weighs .5 pounds.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:1.63 }, value:0.74 }	The package weighs 1.63 pounds, which is 0.74 kilograms.
+item_package_weight: { unit:kilograms, normalized_value:{ unit:pounds, value:0.14 }, value:0.06 }	The package weighs 0.14 pounds, which is 0.06 kilograms.
+is_stain_resistant: { value:false }	Product is not stain resistant.
+display: { size:[ { unit:inches, value:6.0 } ] }	The size of the display is six inches.
+display: { size:[ { unit:inches, value:13.3 } ] }	"The display is 13.3""."
+display: { size:[ { unit:inches, value:5.8 } ] }	"The display size is 5.8""."
+display: { size:[ { unit:inches, value:7.0 } ] }	"The size of the display is 7""."
+display: { size:[ { unit:inches, value:5.5 } ] }	Display size is 5.5 inches.
+display: { size:[ { unit:inches, value:5.8 } ] }	Display size is 5.8 inches.
+"display: { type:[ { value:""Analog"" } ] }"	The display is analog.
+display: { size:[ { unit:inches, value:11.0 } ] }	The product's display size is 11.0 inches.
+"display: { resolution_maximum:[ { value:""1080P Supported"" } ], technology:[ { value:""LCD"" } ] }"	It has a 1080P resolution LCD display.
+display: { size:[ { unit:inches, value:6.5 } ] }	Display size is 6.5 inches.
+display: { size:[ { unit:inches, value:4.7 } ] }	The display size is 4.7 inches.
+display: { size:[ { unit:inches, value:13.0 } ] }	"The display is 13""."
+display: { size:[ { unit:inches, value:6.7 } ] }	The display size of this product is 6.7 inches.
+display: { size:[ { unit:inches, value:6.3 } ] }	"The display is 6.3""."
+"form_factor: { value:""2.5 inches"" }"	"This is 2.5""."
+"form_factor: { value:""Bumper"" }; { value:""Flip"" }"	This flip case has a bumper.
+"form_factor: { value:""Flip"" }"	This flips open.
+"form_factor: { value:""204-pin SO-DIMM"" }"	Its form factor is 204-pin SO-DIMM.
+"form_factor: { value:""ATX"" }"	This is ATX.
+"form_factor: { value:""Bumper"" }"	This has a bumper.
+"form_factor: { value:""Smartphone"" }"	This product is a Smartphone.
+"form_factor: { value:""Bumper"" }; { value:""Pouch"" }"	The pouch has a bumper.
+"form_factor: { value:""3.5\"""" }"	Form factor 3.5.
+"form_factor: { value:""wall_mounted"" }"	This goes on a wall.
+"form_factor: { value:""print_only"" }"	This is only for printing.
+"form_factor: { value:""Laptop"" }"	This product is suitable for Laptop
+"lens: { color:[ { value:""Clear"" } ], material:[ { value:""plastic"" } ], width:[ { unit:millimeters, value:""53"" } ] }"	The lenses of this product are clear plastic and 53 millimeters wide.
+"lens: { type:[ { value:""Wide-Angle"" } ] }"	The device has a wide-angle lens.
+lens: { }	
+"lens: { color:[ { value:""orange"" } ] }"	The lens is orange.
+"lens: { color:[ { value:""Beige"" } ], material:[ { value:""Polycarbonate"" } ], width:[ { value:""3"" } ], height:[ { value:""2"" } ], coating_description:[ { value:""UV Protection Coating"" } ] }"	This product has a beige lens.
+"lens: { type:[ { value:""wide-angle"" } ] }"	This has a wide angle lens.
+"lens: { material:[ { value:""Polycarbonate with 7 layers of blue light protection"" } ], width:[ { unit:millimeters, value:""53"" } ] }"	This product is made of Polycarbonate with 7 layers of blue light protection.
+"lens: { color:[ { value:""Grey"" } ], material:[ { value:""Plastic"" } ], width:[ { unit:millimeters, value:""60"" } ], type:[ { value:""Polarized"" } ], height:[ { unit:millimeters, value:""34.2"" } ] }"	The lenses of this product are grey, plastic, polarized, 60 millimeters wide and 34.2 millimeters high.
+"lens: { color:[ { value:""Black"" } ], material:[ { value:""Plastic"" } ], width:[ { unit:millimeters, value:""54"" } ], coating_description:[ { value:""UV Protection Coating"" } ] }"	The lenses are black plastic with a UV protection coating, and they are 54 millimeters wide.
+"lens: { type:[ { value:""fixed"" } ] }"	The lens on this product is fixed.
+"lens: { material:[ { value:""100% TPU: Synthetic leather cover (prismatic gripping texture) for increased foot-to-ball close control touch."" } ] }"	The product's lens is made of 100% TPU and has a Synthetic leather cover (prismatic gripping texture) for increased foot-to-ball close control touch
+"lens: { color:[ { value:""Yellow"" } ], material:[ { value:""anti-reflective"" } ], width:[ { unit:millimeters, value:""60"" } ], type:[ { value:""Polarized"" } ] }"	The lenses of this product are yellow, anti-reflective, polarized and 60 millimeters wide.
+"lens: { material:[ { value:""Composite"" } ], width:[ { unit:inches, value:""2.28"" } ], coating_description:[ { value:""UV Protection Coating"" } ] }"	The product's lens is made of composite material, has UV protection coating and is 2.28 inches wide.
+"hair_type: { value:""short"" }; { value:""wavy"" }"	This is for short, wavy hair.
+"hair_type: { value:""All"" }"	The product is fine for all hair types.
+"hair_type: { value:""Normal"" }"	This is for normal hair.
+"hair_type: { value:""Curly"" }"	The product has curly hair.
+"hair_type: { value:""Coarse,Dry"" }"	Hair type is coarse dry.
+"hair_type: { value:""Kinky Curly"" }"	The hair is kinky and curly.
+"hair_type: { value:""Straight"" }"	The hair type for this is Straight.
+"hair_type: { value:""Fine"" }"	The product has a fine hair type.
+"hair_type: { value:""wavy"" }"	This is wavy hair.
+"hair_type: { value:""Dry"" }; { value:""thin"" }; { value:""straight"" }; { value:""Curly"" }; { value:""thick"" }"	This is for dry hair that is thick or thin, and curly or straight.
+"hair_type: { value:""Wavy"" }"	The product has wavy hair type.
+"cover: { material:[ { value:""cotton"" }, { value:""linen"" } ] }"	The product's cover is made of cotton and linen.
+"cover: { material:[ { value:""microfiber"" } ] }"	The cover is made of microfiber.
+"cover: { material:[ { value:""microfiber"" }, { value:""polyester"" } ] }"	Cover material is microfiber and polyester.
+"cover: { material:[ { value:""linen"" }, { value:""faux linen"" } ] }"	The cover is made of faux linen.
+"cover: { material:[ { value:""polyester"" } ] }"	The cover is made of polyester.
+"cover: { material:[ { value:""linen"" } ] }"	The covers are made of linen.
+"cover: { material:[ { value:""Velour"" } ] }"	The cover is made of velour.
+"cover: { material:[ { value:""egyptian-cotton"" } ] }"	The cover is made of Egyptian cotton.
+"cover: { material:[ { value:""linen-blend"" }, { value:""linen"" }, { value:""faux linen"" } ] }"	The product cover is made of linen-blend, linen and faux linen.
+"cover: { material:[ { value:""bamboo"" }, { value:""velour"" } ] }"	The cover is made of bamboo and velour.
+"cover: { material:[ { value:""linen-blend"" }, { value:""cotton"" }, { value:""linen"" } ] }"	The cover is made of a linen blend and cotton.
+"cover: { material:[ { value:""cotton"" } ] }"	The cover is made of cotton.
+"cover: { material:[ { value:""wool"" }, { value:""cotton"" } ] }"	The cover is made of wool and cotton.
+"cover: { material:[ { value:""plastic"" } ] }"	This product has a plastic cover.
+"recommended_uses_for_product: { value:""Massage"" }; { value:""Hair Care"" }"	This product is recommended for massage and hair care.
+"recommended_uses_for_product: { value:""Indoor/Outdoor"" }"	This product can be used for indoor or outdoor purposes.
+"recommended_uses_for_product: { value:""hiking, driving, running"" }"	This product is for hiking, driving, and running.
+"recommended_uses_for_product: { value:""Chair"" }; { value:""Stool"" }"	This should be used with a chair or a stool.
+"recommended_uses_for_product: { value:""Outdoor"" }"	This product is meant for outdoor use.
+"recommended_uses_for_product: { value:""Salon"" }"	This is used in salons.
+"recommended_uses_for_product: { value:""Polishing"" }; { value:""Cutting"" }; { value:""Grinding"" }"	This product is for polishing, cutting or grinding.
+"recommended_uses_for_product: { value:""Motorcycling"" }"	This is for motorcycling.
+"recommended_uses_for_product: { value:""Beach"" }; { value:""Travelling"" }"	For use traveling or at the beach.
+"item_firmness_description: { value:""soft"" }"	This is soft.
+"item_firmness_description: { value:""Plush"" }"	This product has a plush firmness.
+"item_firmness_description: { value:""Firm"" }"	This is firm.
+"item_firmness_description: { value:""Medium"" }"	The item has a medium firmness.
+"item_firmness_description: { value:""firm"" }"	This is a firm item.
+water_resistance_depth: { unit:meters, value:30.0 }	The water resistance depth of this device is 30.0 meters.
+water_resistance_depth: { unit:feet, value:99. }	This is water resistant to 99 feet deep.
+water_resistance_depth: { unit:meters, value:30. }	This device is water resistant up to 30 meters.
+water_resistance_depth: { unit:feet, value:330. }	This product is water resistant up to 330 feet.
+water_resistance_depth: { unit:feet, value:1640. }	The water resistance depth of this device is 1640 feet.
+water_resistance_depth: { unit:meters, value:100. }	Its water resistance depth is 100 meters.
+water_resistance_depth: { unit:feet, value:75.0 }	This is water resistant to 75 feet in depth.
+water_resistance_depth: { unit:feet, value:99.0 }	Water resistant to 99 feet.
+water_resistance_depth: { unit:meters, value:50.0 }	The product has a water resistance depth of 50 metres.
+wireless_comm_standard: { value:'802_11_A' }	This uses the wireless communication standard 802_11_A.
+wireless_comm_standard: { value:bluetooth }	This works with bluetooth.
+wireless_comm_standard: { value:'802_11_B' }; { value:'802_11_G' }; { value:'802_11_N' }	This product has 802_11_B, G, and N communication.
+wireless_comm_standard: { value:'2.4_ghz_radio_frequency' }	It has a 2.4 ghz radio frequency.
+wireless_comm_standard: { value:'802_11_B' }; { value:'802_11_G' }	The wireless communication standard is 802_11_B and 802_11_G.
+wireless_comm_standard: { value:'802_11_AC' }	It has a wireless 802_11_AC standard.
+wireless_comm_standard: { value:'802_11_BGN' }	The wireless communication standard is 802 11 BGN.
+digital_storage_capacity: { unit:GB, value:16. }	This has 16 GB storage.
+digital_storage_capacity: { unit:GB, value:64.0 }	It has 64GB of storage.
+digital_storage_capacity: { unit:GB, value:146.8 }	The digital storage capacity of this is 146.8 GB.
+digital_storage_capacity: { unit:GB, value:2.0 }	This can store 2 GB.
+digital_storage_capacity: { unit:GB, value:8.0 }	It has 8GB of storage.
+digital_storage_capacity: { unit:GB, value:160.0 }	This can store 160 GB.
+digital_storage_capacity: { unit:GB, value:32.0 }	This product has a storage capacity of 32.0 GB.
+digital_storage_capacity: { unit:GB, value:4.0 }	There is 4.0 GB digital storage capacity in this product.
+digital_storage_capacity: { unit:GB, value:500.0 }	The digital storage capacity of this device is 500.0 GB.
+"microphone_form_factor: { value:""Built-In"" }"	The product has a built in microphone.
+"microphone_form_factor: { value:""Headset"" }; { value:""Handheld"" }"	This product has a headset and you an hold it.
+"microphone_form_factor: { value:""Microphone System"" }"	This is a microphone system.
+"caffeine_content: { value:""Caffeine Free"" }"	This doesn't have any caffeine.
+"caffeine_content: { value:""caffeinated"" }"	This is caffeinated.
+"caffeine_content: { value:""decaffeinated"" }"	This is decaf.
+"caffeine_content: { value:""Grocery & Gourmet Food > Food & Beverage Gifts > Snack Gifts"" }"	This is a snack gift.
+"caffeine_content: { value:""Decaffeinated"" }"	This product is decaffeinated.
+"keyboard_description: { value:""Ergonomic"" }"	Keyboard description is Ergonomic.
+"keyboard_description: { value:""Standalone"" }"	The product has a standalone keyboard.
+"keyboard_description: { value:""US"" }"	Keyboard description is US.
+"keyboard_description: { value:""Flexible"" }"	This has a flexible keyboard.
+"keyboard_description: { value:""Multi Functional"" }"	The product has a multifunctional keyboard.
+"supported_standards: { value:""MP3"" }; { value:""WMA"" }; { value:""AAC"" }; { value:""OGG"" }; { value:""WAV, FLAC"" }"	It supports MPE, WMA, AAC, OGG, WAV and FLAC.
+"supported_standards: { value:""MP3"" }; { value:""AIFF"" }; { value:""APE"" }; { value:""FLAC"" }; { value:""WMA"" }; { value:""WAV"" }; { value:""OGG"" }"	Supports MP3, AIFF, APE, FLAC, WMA, WAV and OGG.
+"supported_standards: { value:""MP4"" }; { value:""MP3"" }; { value:""APE"" }; { value:""FLAC"" }; { value:""WAV"" }"	This works with MP4, MP3, APE, FLAC, and WAV files.
+"supported_standards: { value:""MP3"" }"	The product supports MP3 standards.
+"supported_standards: { value:""IEEE802.3"" }; { value:""IEEE802.3af"" }; { value:""IEEE802.3at"" }"	The product supports IEEE802.3, IEEE802.3af and IEEE802.3at standards.
+"supported_standards: { value:""MP3"" }; { value:""mini radio"" }; { value:""portable radio"" }; { value:""fm radio"" }; { value:""Pocket radio"" }"	The product supports MP3, mini radio, portable radio, fm radio and pocket radio standards.
+"supported_standards: { value:""2 gb"" }"	Its supported standards are 2.
+"supported_standards: { value:""AAC"" }; { value:""FLAC"" }; { value:""MP3"" }; { value:""WMA"" }; { value:""ALL standard 3.5mm output audio"" }"	It supports, AAC, FLAC, MP3, WMA and all standard 3.5mm output audio.
+"supported_standards: { value:""FLAC"" }; { value:""AAC"" }; { value:""MP3"" }; { value:""WMA"" }; { value:""DSD"" }"	The product supports FLAC, AAC, MP3, WMA and DSD standards.
+"supported_standards: { value:""HFP"" }; { value:""HSP"" }; { value:""AVRCP"" }; { value:""A2DP"" }; { value:""SPP"" }"	Its supported standards are HFP,HSP,AVRCP,A2DP and SPP.
+"zoom_type: { value:""Fixed"" }"	The zoom is fixed.
+"zoom_type: { value:""Optical Zoom"" }"	The product has an optical zoom.
+"zoom_type: { value:""optical_zoom"" }"	The product has an optical zoom.
+"zoom_type: { value:""Vari-focal"" }"	The product has a vari-focal zoom.
+"zoom_type: { value:""Digital Zoom"" }"	The product has a digital zoom.
+"zoom_type: { value:""Motorized Zoom"" }"	The product has motorized zoom.
+"zoom_type: { value:""Manual"" }"	The product has manual zoom.
+"zoom_type: { value:""Digital Zoom"" }; { value:""Optical Zoom"" }; { value:""Extended Optical Zoom"" }"	Its zoom type is digital zoom, optical zoom and extented optical zoom.
+"zoom_type: { value:""Digital Zoom"" }; { value:""Optical Zoom"" }"	It has a digital and an optical zoom.
+"tire: { aspect_ratio:[ { unit:inches, value:23.0 } ], diameter:[ { unit:inches, value:""23"" } ], tire_type:[ { value:""atv tire"" } ] }"	The product has an ATV tire aspect ratio of 23 inches, diameter of 23 inches.
+"tire: { aspect_ratio:[ { value:65.0 } ], diameter:[ { value:""29.1 inches"" } ], tire_type:[ { value:""All Season"" }, { value:""Radial"" } ] }"	The product has a radial tire with aspect ratio of 65, diameter of 29.1 inches and is suitable for all seasons.
+tire: { aspect_ratio:[ { value:90.0 } ] }	It is a 90.
+tire: { aspect_ratio:[ { value:70.0 } ] }	Tire aspect ratio is 70.
+"tire: { aspect_ratio:[ { value:70.0 } ], tire_type:[ { value:""Sport Bike"" } ] }"	Tire has aspect ratio 70.0 nad tire type is sports bike.
+"tire: { tire_type:[ { value:""air-filters"" } ] }"	Its tire type is air-filters.
+"tire: { aspect_ratio:[ { unit:inches, value:75.0 } ], diameter:[ { unit:inches, value:""18"" } ], tire_type:[ { value:""Lawn Mower Tires"" } ] }"	Tire aspect ratio is 75 inches , diameter is 18 inches and tire type is Lawn Mower Tires.
+"tire: { aspect_ratio:[ { value:60.0 } ], diameter:[ { value:""33.0 inches"" } ], tire_type:[ { value:""Snow"" } ] }"	"It is a 60 with a 33"" diameter for the snow."
+"tire: { diameter:[ { unit:inches, value:""26"" } ], tire_type:[ { value:""All Terrain"" } ] }"	The product has a diameter of 26 inches and is an All Terrain tire.
+"tire: { tire_type:[ { value:""All Terrain"" } ] }"	The product has an All Terrain type tire.
+"tire: { diameter:[ { unit:inches, value:""20"" } ] }"	"The tire is 20"" across its widest part."
+"tire: { aspect_ratio:[ { unit:millimeters, value:70.0 } ], tire_type:[ { value:""ATV /GO KART"" } ] }"	The product has a ATV/ Go Kart tire with an aspect ratio of 70 millimetres.
+"tire: { aspect_ratio:[ { unit:millimeters, value:80.0 } ], tire_type:[ { value:""Compact Spare"" } ] }"	It is 80mm.
+"tire: { tire_type:[ { value:""handguards"" } ] }"	Tire type is handguards.
+"tire: { aspect_ratio:[ { unit:unknown_modifier, value:12. } ], diameter:[ { unit:inches, value:""27"" } ] }"	The product has a tire aspect ratio of 12 and a diameter of 27 inches.
+tire: { aspect_ratio:[ { value:80. } ] }	The product has a tire aspect ratio of 80.
+"tire: { aspect_ratio:[ { value:65.0 } ], tire_type:[ { value:""Bias Ply"" } ] }"	It is a 65 bias ply.
+"tire: { diameter:[ { unit:inches, value:""18"" } ] }"	Tire diameter is 18 inches.
+"bowl: { material_type:[ { value:""plastic"" } ] }"	Bowl material is plastic.
+"bowl: { material_type:[ { value:""silicone"" } ] }"	The bowl is silicone.
+"bowl: { material_type:[ { value:""ceramic"" } ] }"	The product is a ceramic bowl.
+"bowl: { material_type:[ { value:""stainless_steel"" } ] }"	The bowl is stainless steel.
+"bowl: { material_type:[ { value:""rubber"" } ] }"	The product has a rubber bowl.
+"bowl: { material_type:[ { value:""steel"" } ] }"	Made of steel.
+"movement_detection_technology: { value:""optical"" }"	The product has optical movement detection technology.
+total_ethernet_ports: { value:1 }	It has 1 ethernet port.
+total_ethernet_ports: { value:4 }	There are four ethernet ports on this product.
+total_ethernet_ports: { value:2 }	This has two ethernet ports.
+total_ethernet_ports: { value:0 }	There are no ethernet ports on this device.
+"resolution_maximum: { value:""1280 x 1024"" }"	This has a maximum resolution of 1280 x 1024.
+"resolution_maximum: { value:""1024 x 768"" }"	It has a 1024x768 resolution.
+"resolution_maximum: { value:""800 x 480"" }"	The maximum resolution on this device is 800 by 480.
+"resolution_maximum: { value:""1600 x 1200"" }"	Its maximum resolution is 1600 x 1200.
+"resolution_maximum: { value:""1680 x 1050"" }"	The maximum resolution 1680 by 1050.
+"resolution_maximum: { value:""1920 x 1200"" }"	The maximum resolution is 1920 x 1200.
+"resolution_maximum: { value:""1440 x 900"" }"	This product has a resolution of 1440 x 900.
+number_of_rounds: { value:25 }	It holds 25 rounds.
+number_of_rounds: { value:150 }	There are 150 rounds.
+number_of_rounds: { value:6 }	This holds six rounds.
+number_of_rounds: { value:15 }	This has 15 rounds.
+number_of_rounds: { value:450 }	There are 450 rounds in this product.
+number_of_rounds: { value:13 }	There are thirteen rounds in this product.
+number_of_rounds: { value:10 }	This has ten rounds.

@@ -1,0 +1,200 @@
+data	text
+"size_per_pearl: { value:""iphone"" }"	It is an iphone.
+"top: { material:[ { value:""iron"" } ] }"	This product is made of iron.
+"dial: { color:[ { value:""Yellow"" } ] }"	The dial is yellow.
+fan_count: { value:6 }	The product has 6 fans.
+"included_components: { value:""Bulb included"" }"	The product includes bulbs.
+upper_temperature_rating: { unit:degrees_celsius, value:260.0 }	Its upper temperature rating is 260° celsius.
+"bottom_style: { value:""Short"" }"	The bottoms are shorts.
+item_package_dimensions: { length:{ unit:centimeters, normalized_value:{ unit:inches, value:7.2 }, value:10.16 }, width:{ unit:centimeters, normalized_value:{ unit:inches, value:4.0 }, value:18.29 }, height:{ unit:centimeters, normalized_value:{ unit:inches, value:1.7 }, value:4.32 } }	"The package is 7.2"" long by 4.0"" wide by 1.7"" high, which is 10.16 centimeters long by 18.29 centimeters wide by 4.32 centimeters high."
+number_of_keys: { value:61 }	The product has 61 keys.
+runtime: { unit:minutes, value:50. }	The product has a run time of 50 minutes.
+"room_type: { value:""Office"" }; { value:""Bedroom"" }; { value:""Kitchen"" }; { value:""Bathroom"" }; { value:""Living Room"" }"	For use in the office, bedroom kitchen, bathroom or living room.
+number_of_stones: { value:23 }	This has 23 stones.
+item_volume: { unit:milliliters, value:1000.0 }	Item value is 1000.0 Milliliters.
+total_eaches: { value:24 }	It has products 24 each.
+format: { value:box_set }; { value:blu_ray }; { value:import }	This product is a blu ray disc.
+"compatible_with_vehicle_type: { value:""motorcycle"" }; { value:""cruiser"" }"	This product is compatible with a cruiser motorcycle.
+"leg: { style:[ { value:""fitbit charge 2 band"" } ] }"	This product has a fitbit charge 2 band.
+item_package_dimensions: { length:{ unit:centimeters, normalized_value:{ unit:inches, value:11.5 }, value:29.21 }, width:{ unit:centimeters, normalized_value:{ unit:inches, value:10.0 }, value:25.4 }, height:{ unit:centimeters, normalized_value:{ unit:inches, value:1.5 }, value:3.81 } }	Package demension is length 11.5inches, width 10.0inches and height 1.5 inches.
+"pile_height: { value:""Medium Pile"" }"	The product has a medium pile height.
+"ram_memory: { technology:[ { value:""ddr3_sdram"" } ] }"	The RAM memory is ddr3_sdram.
+"system_requirements: { value:""W 3.1 95 98"", platform:windows }"	Its system requirements are W 3.1 95 98 and platform is windows.
+"connectivity_technology: { value:""ethernet"" }"	This product utilizes ethernet technology.
+number_of_stones: { value:12 }	This has 12 stones.
+"team_name: { value:""NULL"" }"	It has no team name.
+seat: { height:[ { unit:inches, value:19.0 } ] }	The seat of this product is 19 inches high.
+item_weight: { unit:pounds, normalized_value:{ unit:pounds, value:1.79 }, value:1.79 }	The product weighs 1.79 pounds.
+response_time: { unit:milliseconds, value:5. }	The response time is five milliseconds.
+"system_requirements: { value:""N/A"", platform:windows }"	System requirements are n/a and platform is Windows.
+band: { width:[ { unit:millimeters, value:20.0 } ] }	The band is 20 millimeters wide.
+"sport_type: { value:""Multi-Sport"" }"	These are multi-sport athletic shoes.
+nutritional_info: { vitamins_and_minerals:[ { unit:milligrams, nutrient:cholesterol, value:0.0 } ], serving_quantity:30.0, serving_unit:grams, protein:[ { unit:grams, value:3.0 } ], fat:[ { total:5.0, unit:grams } ], carbohydrate:[ { total:20.0, unit:grams, sugars:0.0 } ] }	The product contains no vitamins and minerals, has a serving quantity of 30 grams, 3 grams of protein, 5 grams of fat and 20 grams of carbohydrates.
+number_of_stones: { value:7 }	This has 7 stones.
+"supported_application: { value:""Heart Rate Monitor"" }; { value:""Sleep Monitor"" }; { value:""GPS"" }; { value:""Fitness Tracker"" }; { value:""Phone"" }; { value:""Camera"" }; { value:""Reminders"" }"	The product supports a Heart rate monitor, sleep monitor, GPS, Fitness tracker, phone, camera and reminders application.
+sheet_count: { value:4320 }	The product has 4320 sheets.
+"graphics_coprocessor: { value:""Intel GMA X4500"" }"	The graphics coprocessor is an Intel GMA X4500.
+"scent: { value:""Mint"" }"	The product has a minty scent.
+hard_disk: { interface:[ { value:serial_ata150 }, { value:serial_ata300 } ] }	This product has a serial_ata150 and 300 hard disk.
+total_diamond_weight: { unit:carats, value:0.5 }	The product has a total diamond weight of 0.5 carats.
+"video_capture_format: { value:""MPEG-H"" }; { value:""MPEG-4"" }"	The product has a MPEG-H and MPEG-4 video format.
+"size: { value:""12 inches open Diameter"" }"	"This is 12"" across the biggest part of the shade when the umbrella is open."
+"leg: { style:[ { value:""ankle, skinny, straight"" } ] }"	These skinny pants have straight legs and go to the ankle.
+thread: { count:[ { value:500 } ] }	This product has a thread count of 500.
+"target_species: { value:""Dog"" }"	For Dogs.
+number_of_drivers: { value:1 }	This has one driver.
+voltage: { value:120. }	The product has a voltage of 120 watts.
+"handle: { material:[ { value:""Wood"" } ] }"	The handle of this product is made of wood.
+number_of_ports: { value:5 }	The product has 5 ports.
+"photo_sensor: { technology:[ { value:""cmos"" } ] }"	The product has a cmos photo sensor.
+"fabric_type: { value:""Solid colors: 100% Cotton; Heather Grey: 90% Cotton, 10% Polyester; All Other Heathers: 50% Cotton, 50% Polyester"" }"	The solid colors are made of 100% Cotton, the heather grey color is made of 90% Cotton and 10% Polyester, and all the other heather colors are made of 50% Cotton and 50% Polyester.
+minimum_weight_recommendation: { unit:pounds, normalized_value:{ unit:pounds, value:7.5 }, value:7.5 }	The minimum weight to use this is 7.5 pounds.
+"top: { material:[ { value:""polyester"" } ] }"	The top is made of polyester.
+"size_per_pearl: { value:""8.0-10.0mm"" }"	The product has 8 to 10 millimetre size pearls.
+"shaft: { height:[ { unit:inches, value:""4"" } ] }"	"The shaft is 4"" high."
+item_dimensions: { width:{ unit:inches, normalized_value:{ unit:inches, value:3.5 }, value:3.5 }, length:{ unit:inches, normalized_value:{ unit:inches, value:3.5 }, value:3.5 }, height:{ unit:inches, normalized_value:{ unit:inches, value:7.0 }, value:7.0 } }	The product has a width of 3.5 inches, length of 3.5 inches and a height of 7 inches.
+"power_source_type: { value:""corded-electric"" }"	This runs on an electric cord.
+format: { value:import }	This is imported.
+"stone: { creation_method:[ { value:synthetic } ], cut:[ { value:""Round"" } ], color:[ { value:""White"" } ] }"	Made of synthetic round cut white stones.
+"musical_style: { value:""dance"" }"	Its musical style is dance.
+"opacity: { unit:inches, value:""Blackout"" }"	These are blackout.
+"occasion_type: { value:""Party"" }; { value:""Wedding"" }; { value:""Christmas"" }; { value:""Casual"" }"	This is for a party, a wedding, Christmas, or for casual wear.
+inner: { }	These have an inside.
+"speaker_type: { value:""Outdoor"" }"	This speaker is meant to be used outside.
+computer_memory: { maximum_size:[ { unit:GB, value:16.0 } ], size:[ { unit:GB, value:8.0 } ] }	It has a 16GB memory.
+"occupancy: { value:""2 Person"" }"	The product can fit 2 people.
+"power_source_type: { value:""AC/DC"" }"	This runs on AC/DC power.
+"bridge: { width:[ { unit:millimeters, value:""17"" } ] }"	The product has a bridge width of 17 millimetres.
+"size: { value:""Pack of 100"" }"	There are 100 in a pack.
+"shell_type: { value:""Polyester"" }"	The product has a polyester shell.
+case: { diameter:[ { unit:centimeters, value:47.0 } ], thickness:[ { unit:inches, value:0.59 } ] }	The product's case has a diameter of 47 centimetres and a thickness of 0.59 inches.
+current_rating: { unit:amps, value:4.74 }	The product has a current rating of 4.74 amps.
+phone_talk_time: { unit:minutes, value:390. }	Talk time is 390 minutes.
+"wireless_communication_technology: { value:""ir"" }"	This is IR wireless tech.
+"neck: { neck_style:[ { value:""Crew Neck"" } ] }"	Neck style is Crew Neck.
+data_transfer_rate: { unit:gigabits_per_second, value:2.25 }	This has a transfer rate of 2.25 gigabits per second.
+language: { type:subtitled, value:english }; { type:original, value:english }; { type:unknown, value:french }	This is in english, is subtitled in english, and might be in french.
+"color: { standardized_values:[ ""Silver"" ], value:""Silver"" }"	This is silver colored.
+battery: { cell_composition:[ { value:lithium_ion } ] }	The battery is lithium ion.
+"blade: { material:[ { value:""plastic"" } ], length:[ { unit:inches, value:3.0 } ] }"	The blade on this measures 3 inches and is plastic.
+format: { value:dvd_video }	This product is a DVD disc.
+"bridge: { width:[ { unit:millimeters, value:""22.0"" } ] }"	The bridge width on this product is 22 mm.
+"shaft: { height:[ { unit:inches, value:"""" } ] }"	The height of the shaft of the product is inches.
+"ingredients: { value:""Aqua/Water/Eau, Isododecane, Cyclopentasiloxane, Phenyl Trimethicone, Cyclohexasiloxane, Dimethicone, Ethylhexyl Palmitate, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, PEG-10 Dimethicone, PEG-9 Polydimethysiloxyethyl Dimethicone, Disteardimonium Hectorite, lactococcus Ferment Lysate, Pinus Pinaster Bark Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Curcuma Longa (Turmeric) Root Extract, Salvia Hispanica Seed Oil, Lactic Acid, Propanediol, Tocopherol, Tocopherol Acetate, Xanthan Gum, Caprylic/Capric Triglyceride, Cellulose Acetate, Docosahexaenoic Acid, Eicosapentaenoic Acid, Acrylates/Ammonium Methacrylate Copolymer, Boron Nitride, Ethylhexyl Glycerin, HDI/Trimethylol Hexyllaxtone Crosspolymer, Magnesium Stearae, Mica, Phosphatidylcholine, Phytosphingosine, Polyglyceryl-4 Isostearate, Polymethylsilsesquioxane, Propylene Carbonate, Propylene Glycol Stearate, Silica Silylate, Sodium Benzoate, Sodium Chloride, Sorbitol, Tetrasodium Glutamate Diacetate, Phenoxyethanol May Contain: +/- Titanium Dioxide (CI 77891), Iron Oxides (CI 77492), Iron Oxides (CI 77491), Iron Oxides (CI 77499)"" }"	The product contains Aqua/Water/Eau, Isododecane, Cyclopentasiloxane, Phenyl Trimethicone, Cyclohexasiloxane, Dimethicone, Ethylhexyl Palmitate, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, PEG-10 Dimethicone, PEG-9 Polydimethysiloxyethyl Dimethicone, Disteardimonium Hectorite, lactococcus Ferment Lysate, Pinus Pinaster Bark Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Curcuma Longa (Turmeric) Root Extract, Salvia Hispanica Seed Oil, Lactic Acid, Propanediol, Tocopherol, Tocopherol Acetate, Xanthan Gum, Caprylic/Capric Triglyceride, Cellulose Acetate, Docosahexaenoic Acid, Eicosapentaenoic Acid, Acrylates/Ammonium Methacrylate Copolymer, Boron Nitride, Ethylhexyl Glycerin, HDI/Trimethylol Hexyllaxtone Crosspolymer, Magnesium Stearae, Mica, Phosphatidylcholine, Phytosphingosine, Polyglyceryl-4 Isostearate, Polymethylsilsesquioxane, Propylene Carbonate, Propylene Glycol Stearate, Silica Silylate, Sodium Benzoate, Sodium Chloride, Sorbitol, Tetrasodium Glutamate Diacetate, Phenoxyethanol May Contain: +/- Titanium Dioxide (CI 77891), Iron Oxides (CI 77492), Iron Oxides (CI 77491) and Iron Oxides (CI 77499) as ingredients.
+"back: { material:[ { value:""Phoenix wood"" } ] }"	The back is made of Phoenix wood.
+"flavor: { value:""Clove"" }"	The flavor is clove.
+"switch_type: { value:""Rocker Switch"" }"	This product has a rocker switch
+"color: { value:""Diddy Kong"" }"	The product is of Diddy Kong color.
+data_transfer_rate: { unit:megabits_per_second, value:3000. }	The data transfer rate is 3000 megabits per second.
+"installation_type: { value:""Over-the-Door"" }"	This goes over the top of a door.
+cache_memory: { installed_size:[ { unit:MB, value:2.0 } ] }	The cache memory is 2.0 MB when installed.
+"fit_type: { value:""Regular"" }"	These are regular fit.
+band: { size_num:[ { unit:inches, value:42. } ] }	The product's band is 42 inches in size.
+"team_name: { value:""Texas Tech Red Raiders"" }"	It is for the Texas Tech Red Raiders.
+stone: { length:[ { unit:millimeters, value:18.0 } ] }	The stone is 18 millimeters long.
+"heel: { type:[ { value:""mid-heel"" } ], height:[ { unit:inches, decimal_value:1.96 } ] }"	The product has mid heels and has a height of 1.96 inches.
+"installation_type: { value:""Free Standing"" }"	This is meant to be free-standing.
+capacity: { unit:fluid_ounces, value:6.0 }	This product holds up to 6 fluid ounces.
+hose_length: { unit:feet, value:50.0 }	The hose length is 50 feet.
+"color: { value:""Robin"" }"	The color of the product is Robin.
+format: { value:live }	This was a live performance.
+"head: { size:[ { value:""18.9”-21.26”"" } ] }"	The product has a 18.9 to 21.26 inches head size.
+"compatible_material: { value:""Glass"" }; { value:""Metal"" }; { value:""Paper"" }; { value:""Ceramic"" }; { value:""Plastic"" }"	The product is compatible with glass, metal, paper, ceramic and plastic.
+voltage: { unit:volts, value:120. }	The voltage is 120 volts.
+rim: { size:[ { unit:inches, value:18.0 } ], width:[ { unit:inches, value:7. } ] }	The product has a rim size of 18 inches and a width of 7 inches.
+"material: { value:""Plastic"" }"	This is made of plastic.
+"light_source: { type:[ { value:""automotive-exterior-parking-light-bulbs"" } ] }"	The light bulbs are parking lights for the exterior of an automotive.
+cache_memory: { installed_size:[ { unit:MB, value:512.0 } ] }	The installed cache memory size of this device is 512.0 MB.
+item_diameter: { unit:inches, decimal_value:4.7 }	The diameter of this product is 4.7 inches.
+"ink: { color:[ { value:""Purple"" } ] }"	The product has purple ink color.
+current_rating: { unit:amps, value:3.34 }	This has 3.34 amps.
+"underwire_type: { value:""Underwire"" }"	This has underwires.
+"ingredients: { value:""Camphor, Menthol, Ocimum gratissimum leaf oil, butylated hydroxytoluene, cinnamon oil, saposhnikovia divaricata root, angelica dahurica root, ginger, natural latex rubber, rosin, safflower, nepeta tenuifolia flowering top, and zinc oxide on an elastic cloth and covered with a protective paper film."" }"	Ingredients; Camphor, Menthol, Ocimum gratissimum leaf oil, butylated hydroxytoluene, cinnamon oil, saposhnikovia divaricata root, angelica dahurica root, ginger, natural latex rubber, rosin, safflower, nepeta tenuifolia flowering top, and zinc oxide on an elastic cloth and covered with a protective paper film.
+total_metal_weight: { unit:grams, value:5.05 }	The weight of this product is 5.05 grams.
+format: { value:color }; { value:widescreen }; { value:ntsc }	This NTSC film is widescreen and is in color.
+item_volume: { unit:cubic_inches, value:249.0 }	The product has a volume of 249 cubic inches.
+number_of_doors: { value:4 }	This product has 4 doors.
+"case: { diameter:[ { unit:millimeters, value:42. } ], material:[ { value:""Stainless Steel"" } ], thickness:[ { unit:millimeters, value:12. } ] }"	The case is 42 millimeters around, it is 12 millimeters thick, and it is made of stainless steel.
+min_focal_length: { unit:millimeters, value:2.8 }	The product has a minimum focal length of 2.8 millimetres.
+"compatible_devices: { value:""apple ipad mini 4"" }; { value:""apple ipad air"" }; { value:""apple ipad 4"" }; { value:""apple ipad pro 10.5"" }; { value:""apple ipad air 2"" }; { value:""apple ipad pro 9.7"" }; { value:""apple ipad mini 2"" }; { value:""apple ipad mini 3"" }; { value:""apple ipad 3"" }; { value:""apple ipad mini"" }; { value:""apple ipad"" }; { value:""apple ipad pro"" }; { value:""apple ipad pro 12.9"" }; { value:""apple ipad 2"" }"	The product is compatible with apple ipad mini 4, apple ipad air, apple ipad 4, apple ipad pro 10.5, apple ipad air 2, apple ipad pro 9.7, apple ipad mini 2, apple ipad 3, apple ipad mini, apple ipad, apple ipad pro, apple ipad pro 12.9 and apple ipad 2.
+"finish_type: { value:""Glossy"" }"	Its finish type is glossy.
+battery: { cell_composition:[ { value:lithium_polymer } ], weight:[ { unit:grams, value:4.2 } ] }	The lithium polymer battery weighs 4.2 grams.
+"ingredients: { value:""100% heirloom arabica coffee"" }"	This is made of 100% heirloom arabica coffee.
+"chain_type: { value:""Link"" }"	This has a link chain.
+"item_shape: { value:""Oval"" }"	This is oval shaped.
+"opacity: { value:""13"" }"	This has opacity of 13.
+"bottom_style: { value:""Briefs"" }"	These are briefs.
+"cable: { length:[ { unit:feet, string_value:""30 feet"", decimal_value:30.0 } ], type:[ { value:""HDMI"" } ] }"	The HDMI cable is 30 feet long.
+"fabric_type: { value:""100% Leather"" }"	It's fabric type is leather.
+"heel: { type:[ { value:""low-heel"" }, { value:""wedge"" }, { value:""Wedges"" } ], height:[ { unit:inches, decimal_value:0.0 } ] }"	"They have a low wedge heel that is 0"" higher than the rest of the shoe."
+"screen_surface_description: { value:""Matte"" }"	The screen surface is matte.
+battery: { cell_composition:[ { value:polymer }, { value:lithium } ], power:[ { unit:milliamp_hours, value:500.0 } ] }	Its battery is Lithium and polymer ,power is 500 milliamp hours.
+"lifestyle: { value:""fashion, business, casual, business casual, cruise, evening, sports"" }"	The product can be used for fashion, business, casual, business casual, cruise, evening and sports purposes.
+rim: { size:[ { unit:inches, value:12. } ] }	The product has a rim size of 12 inches.
+waist: { size:[ { unit:inches, value:38. } ] }	The waist of this product measures 38 inches.
+"supported_application: { value:""Heart Rate Monitor"" }; { value:""Sleep Monitor"" }; { value:""Fitness Tracker"" }; { value:""Phone"" }; { value:""Pedometer"" }; { value:""Time Display"" }; { value:""Camera"" }; { value:""Messages"" }"	This has a heart rate monitor, a sleep monitor, a fitness tracker, a phone, a pedometer, a time display, a camera, and messages.
+total_metal_weight: { unit:grams, value:2.0 }	The metal weighs 2 grams.
+"league_name: { value:""crossbody bags"" }"	It is a crossbody bag.
+number_of_compartments: { value:8 }	It has 8 number of compartments.
+"collar_style: { value:""Band"" }"	This product has a band collar.
+"gem_type: { value:""zircon-gemstone"" }"	The product has zircon gemstones.
+"brand: { value:""OPPONG"" }"	The brand is OPPONG.
+runtime: { unit:minutes, value:100.0 }	The runtime is 100 minutes.
+"occasion_type: { value:""Wedding"" }; { value:""Party"" }; { value:""Casual"" }; { value:""Formal"" }"	This is for a wedding or a party, and can be casual or formal.
+"inner: { material:[ { value:""Cotton"" } ] }"	The inside is cotton.
+"number_of_players: { value:""1-10"" }"	This product can be used for 1- 10 players.
+min_focal_length: { unit:centimeters, value:0.01 }	The product has a minimum focal length of 0.01 centimetres.
+"size: { value:""14 Gauge"" }"	Its size is 14 gauge.
+total_diamond_weight: { unit:carats, value:0.01 }	It is 0.01 carats.
+"stone: { creation_method:[ { value:synthetic }, { value:simulated } ], cut:[ { value:""good-cut"" } ], shape:[ { value:""round-shape"" } ] }"	The stone is synthetic, simulated, round, and the cut is good.
+"focus_type: { value:""Auto Focus"" }"	This has auto focus.
+"fit_type: { value:""Loose Fit"" }"	This fits loosely.
+"outer: { material:[ { value:""Cotton"" } ] }"	The product is made of cotton on the outer part.
+minimum_weight_recommendation: { unit:pounds, normalized_value:{ unit:pounds, value:8.0 }, value:8.0 }	The minimum weight that this should hold is eight pounds.
+"brand: { value:""Brand: Backpack Books"" }"	It's brand is Backpack Books
+item_dimensions: { width:{ unit:inches, normalized_value:{ unit:inches, value:2.0 }, value:2.0 }, length:{ unit:inches, normalized_value:{ unit:inches, value:3.0 }, value:3.0 }, height:{ unit:inches, normalized_value:{ unit:inches, value:3.0 }, value:3.0 } }	"The size of this is 2"" wide by 3"" long by 3"" high."
+"arm: { style:[ { value:""Armless"" } ] }"	The product has no arms.
+"grip: { type:[ { value:""Big pen grips"" } ] }"	Its grip type is Big pen grips.
+item_dimensions: { width:{ unit:inches, normalized_value:{ unit:inches, value:4.1 }, value:4.1 }, length:{ unit:inches, normalized_value:{ unit:inches, value:9.8 }, value:9.8 }, height:{ unit:inches, normalized_value:{ unit:inches, value:11.2 }, value:11.2 } }	The product is 4.0 inches wide, 9.8 inches long and 11.2 inches high.
+"contributor: { role:author, name:""Steve Jackson"" }"	The author of this product is Steve Jackson.
+"load_capacity: { unit:kilograms, value:""1000.0"" }"	This can hold 1000 kilograms.
+heel: { height:[ { unit:inches, decimal_value:1. } ] }	"The heel is 1"" high."
+hose_length: { unit:feet, value:15.0 }	The hose is 15 feet long.
+"heel: { type:[ { value:""Flat"" } ] }"	This has a flat heel.
+"handle: { type:[ { value:""Knob"" }, { value:""Pull Handle"" } ] }"	These pull handles are knobs.
+"leg: { style:[ { value:""Skinny"" } ] }"	It has a skinny leg.
+"insulation: { material:[ { value:""Oxford Cloth & Pearl cotton & EVA"" } ] }"	This product is made of Oxford Cloth & Pearl cotton & EVA.
+capacity: { unit:fluid_ounces, value:8.0 }	This product will hold 8.0 fluid ounces.
+rim: { size:[ { unit:inches, value:13. } ] }	Rim size is 13 inches.
+"setting_type: { value:""4-prong"" }"	It has a 4-prong setting.
+"room_type: { value:""Kitchen"" }; { value:""Living Room"" }"	The product belongs in a kitchen or a living room.
+number_of_channels: { value:2 }	The product has 2 channels.
+floor_length: { unit:inches, value:4.0 }	"The floor is 4"" long."
+"size: { value:""Pack of 50"" }"	This is one pack of 50.
+allergen_information: { value:milk }	This product contains milk.
+cache_memory: { installed_size:[ { unit:MB, value:8. } ] }	The cached memory has an installed size of 8 MB.
+"gem_type: { value:""NA"" }"	There are no gems in the product.
+recycled_content_percentage: { value:100. }	The product can be completely recycled.
+hardware_interface: { value:'usb2.0' }	The product has a usb 2.0 interface.
+"container: { type:[ { value:""Box"" } ] }"	This product has a box container.
+"metal_type: { value:""alloy"" }"	The metal in this product is alloy.
+"contributor: { role:artist, name:""Juan Diego Flórez"" }"	The artist is Juan Diego Florez.
+"ingredients: { value:""Soy Protein Isolate, Rolled Oats (Wheat), Almonds, Corn Syrup, Soluble Corn Fiber, Sugar, Polydextrose, Fructose, Tapioca Starch, Fractionated Palm Kernel Oil, Inulin, Dried Cane Syrup, Glycerin, Water, Maltodextrin (Corn), Molasses, Cocoa (Processed with Alkali), Palm Oil, Nonfat Milk, Butter (Cream, Salt), Salt, High Fructose Corn Syrup, Lactose, Natural and Artificial Flavor, Milk, Soy Lecithin Dextrose, Whey, Honey, Distilled Monoglycerides, Nonfat Yogurt Powder (Cultured Nonfat Milk), Acesulfame Potassium and Sucralose (Nonnutritive Sweeteners), Color Added, Brown Sugar, Cocoa, Caramel Color."" }"	The product has Soy Protein Isolate, Rolled Oats (Wheat), Almonds, Corn Syrup, Soluble Corn Fiber, Sugar, Polydextrose, Fructose, Tapioca Starch, Fractionated Palm Kernel Oil, Inulin, Dried Cane Syrup, Glycerin, Water, Maltodextrin (Corn), Molasses, Cocoa (Processed with Alkali), Palm Oil, Nonfat Milk, Butter (Cream, Salt), Salt, High Fructose Corn Syrup, Lactose, Natural and Artificial Flavor, Milk, Soy Lecithin Dextrose, Whey, Honey, Distilled Monoglycerides, Nonfat Yogurt Powder (Cultured Nonfat Milk), Acesulfame Potassium and Sucralose (Nonnutritive Sweeteners), Color Added, Brown Sugar, Cocoa and Caramel Color as ingredients.
+cache_memory: { installed_size:[ { unit:MB, value:128.0 } ] }	The cache memory is 128 MB when installed.
+total_eaches: { value:8 }	There are eight included.
+"shaft: { height:[ { unit:inches, value:""11.5"" } ] }"	The product has a shaft height of 11.5 inches.
+phone_standby_time: { unit:hours, value:42.0 }	The product has a phone standby time of 42 hours.
+item_dimensions: { width:{ unit:inches, normalized_value:{ unit:inches, value:7.5 }, value:7.5 }, length:{ unit:inches, normalized_value:{ unit:inches, value:3.0 }, value:3.0 }, height:{ unit:inches, normalized_value:{ unit:inches, value:4.0 }, value:4.0 } }	"This is 7.5"" wide by 3"" long by 4"" high."
+item_package_dimensions: { length:{ unit:centimeters, normalized_value:{ unit:inches, value:10.5 }, value:1.27 }, width:{ unit:centimeters, normalized_value:{ unit:inches, value:9.9 }, value:25.15 }, height:{ unit:centimeters, normalized_value:{ unit:inches, value:0.5 }, value:26.67 } }	"The package is 10.5"" long by 9.9"" wide by 0.5"" high, which is 1.27 centimeters long by 25.15 centimeters high by 26.67 centimeters high."
+"speaker_type: { value:""Subwoofer"" }"	Its speaker type is Subwoofer.
+"number_of_players: { value:""1-2"" }"	This product can be played by 1-2 people.
+"bridge: { width:[ { unit:millimeters, value:""17.0"" } ] }"	The product has a bridge width of 17 millimetres.
+hose_length: { unit:feet, value:75.0 }	The hose is 75 feet long.
+"load_capacity: { unit:pounds, value:""60.0"" }"	The most weight this can hold is 60 pounds.
+"collar_style: { value:""Hooded"" }"	This has a hood.
+item_volume: { unit:cubic_centimeters, value:5022.0 }	This product is 5,022 centimeters long.
+"size_per_pearl: { value:""4J-OJ61-SA6D"" }"	The product has a 4J-OJ61-SA6D sized pearl.
+min_focal_length: { unit:millimeters, value:36. }	The minimum focal length is 36mm.
+"item_shape: { value:""Rectangle"" }"	This is rectangle-shaped.
+"skin_type: { value:""Combination"" }; { value:""Dry"" }; { value:""Normal"" }"	This product is for combination, dry, or normal skin.
+hardware_interface: { value:usb }; { value:'usb2.0' }; { value:hdmi }; { value:'usb3.0' }	This product has a USB 3.0 and 2.0 interface.
