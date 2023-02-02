@@ -15,7 +15,7 @@ Current research mainly focuses on finding answers from either unstructured text
 knowledge bases with pre-defined schemas. Apart from the above two sources, a lot of product information is represented in a semistructured way, e.g., key-value pairs, lists, tables, json and xml files, etc. These semistructured data can be a valuable answer source since they are better organized than free text, while being easier to construct than structured knowledge bases.  SemiPQA is a dataset to benchmark PQA over semi-structured data. It contains 10,949 written questions about json-formatted data covering 258 unique attribute types (The numbers are slightly lower than the ones reported in the [paper](https://aclanthology.org/2022.ecnlp-1.14.pdf) as we removed some sensitive attributes). Each data point is paired with manually-annotated text that describes its contents, so that we can train a neural answer presenter to present the data in a natural way.
 
 
-The SemiPQA contains the dataset. It contains two sub-folders for the attribute ranking and data-to-text generation respectively. In each sub-folder, there exists 4 csv files: train, dev, testseen and testunseen, where the latter two correspond to seen and unseen attributes as mentioned in the paper.
+The semiPQA folder contains the dataset. It contains two sub-folders for the attribute ranking and data-to-text generation respectively. In each sub-folder, there exists 4 csv files: train, dev, testseen and testunseen, where the latter two correspond to seen and unseen attributes as mentioned in the paper.
 
 If you use this dataset, please cite out paper:
 
