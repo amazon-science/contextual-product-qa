@@ -15,7 +15,18 @@ Current research mainly focuses on finding answers from either unstructured text
 knowledge bases with pre-defined schemas. Apart from the above two sources, a lot of product information is represented in a semistructured way, e.g., key-value pairs, lists, tables, json and xml files, etc. These semistructured data can be a valuable answer source since they are better organized than free text, while being easier to construct than structured knowledge bases.  SemiPQA is a dataset to benchmark PQA over semi-structured data. It contains 10,949 written questions about json-formatted data covering 258 unique attribute types (The numbers are slightly lower than the ones reported in the [paper](https://aclanthology.org/2022.ecnlp-1.14.pdf) as we removed some sensitive attributes). Each data point is paired with manually-annotated text that describes its contents, so that we can train a neural answer presenter to present the data in a natural way.
 
 
-The semiPQA folder contains the dataset. It contains two sub-folders for the attribute ranking and data-to-text generation respectively. In each sub-folder, there exists 4 csv files: train, dev, testseen and testunseen, where the latter two correspond to seen and unseen attributes as mentioned in the paper.
+The semiPQA folder contains the dataset. It contains two sub-folders for the attribute ranking and data-to-text generation respectively. In each sub-folder, there exists 4 csv files: train, dev, testseen and testunseen, where the latter two correspond to seen and unseen attributes as mentioned in the paper. CSV files are separated by "\t". 
+
+The attribute ranking filels contain the following columns:
+* qid: question id
+* qa_pair_id: question-candidate pair id
+* question: question text
+* candidate: candidate text (json-formed attributes converted into strings)
+* label: 1 means that the candidate is relevant with the  question and 0 otherwise.
+
+The data-to-text files contain the  following columns:
+* data: data text (json-formed attributes converted into strings)
+* text: manual written text describing the content of the data
 
 If you use this dataset, please cite out paper:
 
@@ -47,9 +58,31 @@ It is of great value to answer product questions based on heterogeneous informat
 * user review: User reviews written for the product.
 * community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
 
+<<<<<<< HEAD
 The hetPQA dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly.
 
 The hetPQA folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test.
+=======
+The USB dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly. Questions from the USB dataset are all about the "toys and games" product category.
+
+The USB folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test. CSV files are separated by "\t". 
+
+The attribute ranking filels contain the following columns:
+* qid: question id
+* ASIN: ASIN number of the corresponding product
+* qa_pair_id: question-candidate pair id
+* question: question text
+* candidate: candidate text
+* label: 1 means that the candidate is relevant with the  question and 0 otherwise
+* source: the source of the candidate, can be one of the 6 information sources included in the dataset
+
+The data-to-text files contain the  following columns:
+* ASIN: ASIN number of the corresponding product
+* question: question text
+* candidate: candidate text
+* answer: manually written natural-sounding answer given the question and information contained in the candidate
+* source: the source of the candidate, can be one of the 6 information sources included in the dataset
+>>>>>>> ed5681d347cdfb22866ef6d410c7c8fb951617d4
 
 If you use this dataset, please cite out paper:
 
