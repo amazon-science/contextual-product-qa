@@ -58,14 +58,9 @@ It is of great value to answer product questions based on heterogeneous informat
 * user review: User reviews written for the product.
 * community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
 
-<<<<<<< HEAD
-The hetPQA dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly.
+The hetPQA dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly. Questions from the hetPQA dataset are all about the "toys and games" product category.
 
-The hetPQA folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test.
-=======
-The USB dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly. Questions from the USB dataset are all about the "toys and games" product category.
-
-The USB folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test. CSV files are separated by "\t". 
+The hetPQA folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test. CSV files are separated by "\t". 
 
 The attribute ranking filels contain the following columns:
 * qid: question id
@@ -82,7 +77,6 @@ The data-to-text files contain the  following columns:
 * candidate: candidate text
 * answer: manually written natural-sounding answer given the question and information contained in the candidate
 * source: the source of the candidate, can be one of the 6 information sources included in the dataset
->>>>>>> ed5681d347cdfb22866ef6d410c7c8fb951617d4
 
 If you use this dataset, please cite out paper:
 
