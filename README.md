@@ -7,7 +7,7 @@ This repository holds datasets supporting the contextual product question answer
 Right now it includes two datasets:
 
 * **semiPQA**: Question answering from semi-structured data described [in this paper](https://aclanthology.org/2022.ecnlp-1.14.pdf).
-* **USB**: Question answering from heterogeneous data described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
+* **hetPQA**: Question answering from heterogeneous data described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
 
 ## SemiPQA
 
@@ -37,9 +37,9 @@ If you use this dataset, please cite out paper:
     pages = "111--120",
 }
 ```
-## USB
+## HetPQA
 
-It is of great value to answer product questions based on heterogeneous information sources available on web product pages, e.g., semi-structured attributes, text descriptions, userprovided contents, etc. USB is a large-scale benchmark dataset for answering product questions from 6 heterogeneous sources:
+It is of great value to answer product questions based on heterogeneous information sources available on web product pages, e.g., semi-structured attributes, text descriptions, userprovided contents, etc. hetPQA is a large-scale benchmark dataset for answering product questions from 6 heterogeneous sources:
 * semi-structured attribute: Product attributes in json format as in the semiPQA dataset.
 * bullet point: Product summaries in the form of bullet points from the product page.
 * product description: Product descriptions from the manufacturer and Amazon.
@@ -47,9 +47,9 @@ It is of great value to answer product questions based on heterogeneous informat
 * user review: User reviews written for the product.
 * community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
 
-The USB dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly.
+The hetPQA dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly.
 
-The USB folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test.
+The hetPQA folder contains the dataset. It contains two sub-folders for the evidence ranking and answer generation respectively. In each sub-folder, there exists 3 csv files: train, dev and test.
 
 If you use this dataset, please cite out paper:
 
