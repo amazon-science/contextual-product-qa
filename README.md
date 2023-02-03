@@ -51,12 +51,12 @@ If you use this dataset, please cite out paper:
 ## HetPQA
 
 It is of great value to answer product questions based on heterogeneous information sources available on web product pages, e.g., semi-structured attributes, text descriptions, userprovided contents, etc. hetPQA is a large-scale benchmark dataset for answering product questions from 6 heterogeneous sources:
-* semi-structured attribute: Product attributes in json format as in the semiPQA dataset.
-* bullet point: Product summaries in the form of bullet points from the product page.
-* product description: Product descriptions from the manufacturer and Amazon.
-* on-site publication: Manually written Publications about products (for example [here](https://www.amazon.com/ospublishing/story/14423b91-4203-413e-a885-6005dca8d68e)).
-* user review: User reviews written for the product.
-* community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
+1. semi-structured attribute: Product attributes in json format as in the semiPQA dataset.
+2. bullet point: Product summaries in the form of bullet points from the product page.
+3. product description: Product descriptions from the manufacturer and Amazon.
+4. on-site publication: Manually written Publications about products (for example [here](https://www.amazon.com/ospublishing/story/14423b91-4203-413e-a885-6005dca8d68e)).
+5. user review: User reviews written for the product.
+6. community answer: Top-voted community answers. Answers directly replying to questions in our question set are discarded
 
 The hetPQA dataset features (1) It provides clear annotations for both evidence ranking and answer generation, enabling us to perform in-depth evaluation of these two components separately. (2) We consider a mix of 6 heterogeneous sources, ranging from semi-structured specifications (jsons) to free sentences and (3) It represents naturally-occurring questions, unlike previous collections that elicited questions by showing answers explicitly. Questions from the hetPQA dataset are all about the "toys and games" product category.
 
