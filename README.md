@@ -90,6 +90,7 @@ The attribute ranking filels contain the following columns:
 * It does not restrict the product categories, while the hetPQA dataset focuses only on the toys and games product domain
 * It defines finer-grained 3-class labels for each candidate, while the hetPQA dataset contains only binary labels
 * Every candidate is checked with its context (surrounding sentences) to make sure the label is correct, while the hetPQA dataset does not check the context.
+* For questions in the testset where none of the top-5 candidates are fully answering, we further ask annotators to actively search for the answer from the product page.
 
 The files contain the following columns:
 * ASIN: ASIN number of the corresponding product
