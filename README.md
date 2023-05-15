@@ -60,27 +60,6 @@ The data-to-text files contain the  following columns:
 * answer: manually written natural-sounding answer given the question and information contained in the candidate
 * source: the source of the candidate, can be one of the 6 information sources included in the dataset
 
-If you use this dataset, please cite out paper:
-
-```
-@inproceedings{shen-etal-2022-product,
-    title = "Product Answer Generation from Heterogeneous Sources: A New Benchmark and Best Practices",
-    author = "Shen, Xiaoyu  and
-      Barlacchi, Gianni  and
-      Del Tredici, Marco  and
-      Cheng, Weiwei  and
-      Byrne, Bill  and
-      Gispert, Adri{\`a}",
-    booktitle = "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5)",
-    month = may,
-    year = "2022",
-    address = "Dublin, Ireland",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.ecnlp-1.13",
-    doi = "10.18653/v1/2022.ecnlp-1.13",
-    pages = "99--110",
-}
-```
 ## ePQA
 
 ePQA is a cleaner version of hetPQA with the following differences
