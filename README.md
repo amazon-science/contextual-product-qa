@@ -8,6 +8,8 @@ Right now it includes two datasets:
 
 * **semiPQA**: Question answering from semi-structured data described [in this paper](https://aclanthology.org/2022.ecnlp-1.14.pdf).
 * **hetPQA**: Question answering from heterogeneous data described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
+* **ePQA**: An updated version of hetPQA (less noise, finer-grained labels, consider context of candidate), described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
+* **xPQA**: Cross-lingual Product Question answering in 12 languages, described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
 
 ## SemiPQA
 
@@ -28,26 +30,6 @@ The data-to-text files contain the  following columns:
 * data: data text (json-formed attributes converted into strings)
 * text: manual written text describing the content of the data
 
-If you use this dataset, please cite out paper:
-
-```
-@inproceedings{shen-etal-2022-semipqa,
-    title = "semi{PQA}: A Study on Product Question Answering over Semi-structured Data",
-    author = "Shen, Xiaoyu  and
-      Barlacchi, Gianni  and
-      Del Tredici, Marco  and
-      Cheng, Weiwei  and
-      Gispert, Adri{\`a}",
-    booktitle = "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5)",
-    month = may,
-    year = "2022",
-    address = "Dublin, Ireland",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.ecnlp-1.14",
-    doi = "10.18653/v1/2022.ecnlp-1.14",
-    pages = "111--120",
-}
-```
 ## HetPQA
 
 It is of great value to answer product questions based on heterogeneous information sources available on web product pages, e.g., semi-structured attributes, text descriptions, userprovided contents, etc. hetPQA is a large-scale benchmark dataset for answering product questions from 6 heterogeneous sources:
@@ -80,6 +62,83 @@ The data-to-text files contain the  following columns:
 
 If you use this dataset, please cite out paper:
 
+```
+@inproceedings{shen-etal-2022-product,
+    title = "Product Answer Generation from Heterogeneous Sources: A New Benchmark and Best Practices",
+    author = "Shen, Xiaoyu  and
+      Barlacchi, Gianni  and
+      Del Tredici, Marco  and
+      Cheng, Weiwei  and
+      Byrne, Bill  and
+      Gispert, Adri{\`a}",
+    booktitle = "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.ecnlp-1.13",
+    doi = "10.18653/v1/2022.ecnlp-1.13",
+    pages = "99--110",
+}
+```
+## ePQA
+
+ePQA is a cleaner version of hetPQA with the following differences
+
+The attribute ranking filels contain the following columns:
+* It has higher annotation quality with rounds of verifications. In our in-house annotation, the error rate is less than 5%
+* It does not restrict the product categories, while the hetPQA dataset focuses only on the toys and games product domain
+* It defines finer-grained 3-class labels for each candidate, while the hetPQA dataset contains only binary labels
+* Every candidate is checked with its context (surrounding sentences) to make sure the label is correct, while the hetPQA dataset does not check the context.
+
+The files contain the following columns:
+* ASIN: ASIN number of the corresponding product
+* question: question text
+* qid: question id
+* candidate: candidate text
+* qa_pair_id: question-answer id
+* source: original source of the candidate
+* context: surrounding sentences of the candidate
+* label: 2 means the fully ansewring, 1 means helpful but not fully answering, 0 means irrelevant
+* answer: manually written natural-sounding answer given the question and information contained in the candidate (if the candidate is fully answering)
+
+## xPQA
+
+xPQA is a large-scale annotated cross-lingual PQA dataset in 12 languages across 9 branches.
+
+The files contain the following columns:
+* ASIN: ASIN number of the corresponding product
+* question: question text
+* question_en: the translated English question
+* qid: question id
+* candidate: candidate text
+* qa_id: question-answer id
+* source: original source of the candidate
+* context: surrounding sentences of the candidate
+* label: 2 means the fully ansewring, 1 means helpful but not fully answering, 0 means irrelevant
+* answer: manually written natural-sounding answer given the question and information contained in the candidate (if the candidate is fully answering)
+
+"test_answerable_corrected.csv" contains only answerable questions in the "test.csv". The translations for Tamil and German are manually corrected translations instead of machine translations.
+
+If you use these datasets, please cite out paper:
+```
+@inproceedings{shen-etal-2022-semipqa,
+    title = "semi{PQA}: A Study on Product Question Answering over Semi-structured Data",
+    author = "Shen, Xiaoyu  and
+      Barlacchi, Gianni  and
+      Del Tredici, Marco  and
+      Cheng, Weiwei  and
+      Gispert, Adri{\`a}",
+    booktitle = "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.ecnlp-1.14",
+    doi = "10.18653/v1/2022.ecnlp-1.14",
+    pages = "111--120",
+}
+```
 ```
 @inproceedings{shen-etal-2022-product,
     title = "Product Answer Generation from Heterogeneous Sources: A New Benchmark and Best Practices",
