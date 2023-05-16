@@ -138,7 +138,14 @@ If you use these datasets, please cite out paper:
     pages = "99--110",
 }
 ```
-
+```
+@article{shen2023xPQA,
+  title={xPQA: Cross-Lingual Product Question Answering across 12 Languages},
+  author={Shen, Xiaoyu and Asai, Akari and Byrne, Bill and Gispert, Adri\`a de},
+  journal={arXiv preprint arXiv:2305.03957},
+  year={2023}
+}
+```
 ## License
 
 This library is licensed under the CDLA 1.0 Sharing License.
