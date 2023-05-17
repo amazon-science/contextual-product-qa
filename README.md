@@ -8,8 +8,8 @@ Right now it includes two datasets:
 
 * **semiPQA**: Question answering from semi-structured data described [in this paper](https://aclanthology.org/2022.ecnlp-1.14.pdf).
 * **hetPQA**: Question answering from heterogeneous data described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
-* **ePQA**: An updated version of hetPQA (less noise, finer-grained labels, consider context of candidate), described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
-* **xPQA**: Cross-lingual Product Question answering in 12 languages, described [in this paper](https://aclanthology.org/2022.ecnlp-1.13.pdf).
+* **ePQA**: An updated version of hetPQA (less noise, finer-grained labels, consider context of candidate), described [in this paper](https://arxiv.org/abs/2305.09249).
+* **xPQA**: Cross-lingual Product Question answering in 12 languages, described [in this paper](https://arxiv.org/abs/2305.09249).
 
 ## SemiPQA
 
@@ -142,7 +142,7 @@ If you use these datasets, please cite out paper:
 @article{shen2023xPQA,
   title={xPQA: Cross-Lingual Product Question Answering across 12 Languages},
   author={Shen, Xiaoyu and Asai, Akari and Byrne, Bill and Gispert, Adri\`a de},
-  journal={arXiv preprint arXiv:2305.03957},
+  journal={arXiv preprint arXiv:2305.09249},
   year={2023}
 }
 ```
