@@ -100,6 +100,7 @@ xPQA is a large-scale annotated cross-lingual PQA dataset. It contains product q
 | Japanese   |Japonic|Kanji;Kana   |Japan |
 | Korean   |Han|Hangul   |United States|
 
+Each language contains 500 questions for train/dev and 1000 questions for testing. Every question is annotated with at least 5 relevance labels plus manually written answers.
 The files contain the following columns:
 * ASIN: ASIN number of the corresponding product
 * question: question text
