@@ -84,7 +84,21 @@ The files contain the following columns:
 
 ## xPQA
 
-xPQA is a large-scale annotated cross-lingual PQA dataset in 12 languages across 9 branches.
+xPQA is a large-scale annotated cross-lingual PQA dataset. It contains product questions asked in the following 12 languages across 9 branches:
+| Language | Branch | Script | Market |
+|----------|--------|--------|--------|
+| German   |Germanic|Latin   |Germany |
+| Italian  |Romance |Latin   |Italy |
+| French   |Romance |Latin   |France |
+| Spanish  |Romance |Latin   |Spain |
+| Portuguese   |Romance |Latin   |Brazil |
+| Polish   |Balto-Slavic|Latin   |Poland |
+| Arabic   |Semitic|Arabic   |Saudi-Arabien|
+| Hindi   |Indo-Aryan|Devanagari   |India |
+| Tamil   |Dravidian|Tamil   |India |
+| Chinese   |Sinitic|Chinese   |China |
+| Japanese   |Japonic|Kanji;Kana   |Japan |
+| Korean   |Han|Hangul   |United States|
 
 The files contain the following columns:
 * ASIN: ASIN number of the corresponding product
