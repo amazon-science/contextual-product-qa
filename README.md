@@ -154,9 +154,9 @@ If you use these datasets, please cite out paper:
 }
 ```
 ```
-@article{shen2023xPQA,
+@article{shen2023xpqa,
   title={xPQA: Cross-Lingual Product Question Answering across 12 Languages},
-  author={Shen, Xiaoyu and Asai, Akari and Byrne, Bill and Gispert, Adri\`a de},
+  author={Shen, Xiaoyu and Asai, Akari and Byrne, Bill and de Gispert, Adri{\`a}},
   journal={arXiv preprint arXiv:2305.09249},
   year={2023}
 }
